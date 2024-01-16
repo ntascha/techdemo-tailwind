@@ -57,7 +57,7 @@ Es wird dringend empfohlen, diese Checkliste in Ihr eigenes Projekt-Repository z
 - [ ] Rollback-Strategien (optional)
 
 ### Containerisierung
-- [ ] Docker oder ähnliche Technologien eingesetzt
+- [x] Docker oder ähnliche Technologien eingesetzt
 - [ ] Integration in eine Build-Pipeline
 
 ### Konfigurationsmanagement
@@ -69,7 +69,7 @@ Es wird dringend empfohlen, diese Checkliste in Ihr eigenes Projekt-Repository z
 - [ ] Developer Benachrichtigungen
 
 ### Sicherheit
-- [ ] Zugangsdaten sicher hinterlegt
+- [x] Zugangsdaten sicher hinterlegt
 
 ### Datenbanken
 - [ ] Datenbank-Migrationen automatisiert
